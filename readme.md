@@ -1,0 +1,1 @@
+idk man, im too lazy to make documentation... will probably do some other day. You can suffer from inspecting commentless code for now. :3 — renz
